@@ -1,0 +1,22 @@
+// add driver-license
+{
+  "number": "ABC345",
+  "categories": "Some categories",
+  "issueDate": "2023-01-01",
+  "validUntil": "2023-12-31",
+  "user": {
+    "userId": 1
+  }
+}
+
+// add driver-vehicle
+{
+  "brand": "Porche",
+  "model": "911",
+  "int": "2023",
+  "registrationNumber": "777",
+  "user": {
+    "userId": 2
+  }
+}
+
